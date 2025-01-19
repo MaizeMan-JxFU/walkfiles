@@ -11,7 +11,7 @@ It is a Python packadge that can help you obtain target files, and save the file
 
 Download walkTF from github, and then enter './walkTF-master':
 ```
-cd walkTF/dist
+cd walkTF
 ```
 and enter this command in command line:
 ```
